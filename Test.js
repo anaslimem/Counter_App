@@ -18,8 +18,7 @@ function save(){
     count = 0
 }
 
-let message = "you have three new notifications now "
-console.log(message)
+
 
 
 
